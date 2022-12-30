@@ -1,0 +1,15 @@
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.csproj.AssemblyReference.cache
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+E:\Anshul\dotnet\helloworld\bin\Debug\net7.0\helloworld.exe
+E:\Anshul\dotnet\helloworld\bin\Debug\net7.0\helloworld.deps.json
+E:\Anshul\dotnet\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+E:\Anshul\dotnet\helloworld\bin\Debug\net7.0\helloworld.dll
+E:\Anshul\dotnet\helloworld\bin\Debug\net7.0\helloworld.pdb
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.dll
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.pdb
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+E:\Anshul\dotnet\helloworld\obj\Debug\net7.0\ref\helloworld.dll

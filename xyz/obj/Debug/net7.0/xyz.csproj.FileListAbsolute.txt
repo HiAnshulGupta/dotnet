@@ -1,0 +1,15 @@
+E:\Anshul\dotnet\xyz\bin\Debug\net7.0\xyz.exe
+E:\Anshul\dotnet\xyz\bin\Debug\net7.0\xyz.deps.json
+E:\Anshul\dotnet\xyz\bin\Debug\net7.0\xyz.runtimeconfig.json
+E:\Anshul\dotnet\xyz\bin\Debug\net7.0\xyz.dll
+E:\Anshul\dotnet\xyz\bin\Debug\net7.0\xyz.pdb
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.csproj.AssemblyReference.cache
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.AssemblyInfoInputs.cache
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.AssemblyInfo.cs
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.csproj.CoreCompileInputs.cache
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.dll
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\refint\xyz.dll
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.pdb
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\xyz.genruntimeconfig.cache
+E:\Anshul\dotnet\xyz\obj\Debug\net7.0\ref\xyz.dll
